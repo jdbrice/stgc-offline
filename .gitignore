@@ -1,0 +1,6 @@
+.sl73_gcc485/
+*.root
+*.daq
+*.sfs
+temp_gccflags.c
+bfcRun.C
